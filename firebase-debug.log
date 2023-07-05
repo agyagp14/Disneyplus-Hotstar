@@ -1,0 +1,63 @@
+[debug] [2023-06-30T19:57:55.313Z] ----------------------------------------------------------------------
+[debug] [2023-06-30T19:57:55.316Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Agya Gupta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-30T19:57:55.316Z] CLI Version:   12.4.2
+[debug] [2023-06-30T19:57:55.317Z] Platform:      win32
+[debug] [2023-06-30T19:57:55.317Z] Node Version:  v18.16.0
+[debug] [2023-06-30T19:57:55.323Z] Time:          Sat Jul 01 2023 01:27:55 GMT+0530 (India Standard Time)
+[debug] [2023-06-30T19:57:55.323Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-30T19:57:55.332Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-30T19:57:55.333Z] > authorizing via signed-in user (agyagp14@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Agya Gupta\Desktop\dclone
+
+[debug] [2023-06-30T20:02:45.137Z] ----------------------------------------------------------------------
+[debug] [2023-06-30T20:02:45.139Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Agya Gupta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-30T20:02:45.140Z] CLI Version:   12.4.2
+[debug] [2023-06-30T20:02:45.140Z] Platform:      win32
+[debug] [2023-06-30T20:02:45.140Z] Node Version:  v18.16.0
+[debug] [2023-06-30T20:02:45.147Z] Time:          Sat Jul 01 2023 01:32:45 GMT+0530 (India Standard Time)
+[debug] [2023-06-30T20:02:45.147Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-30T20:02:45.157Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-30T20:02:45.157Z] > authorizing via signed-in user (agyagp14@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Agya Gupta\Desktop\dclone
+
+[debug] [2023-06-30T20:12:16.264Z] ----------------------------------------------------------------------
+[debug] [2023-06-30T20:12:16.266Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Agya Gupta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-30T20:12:16.267Z] CLI Version:   12.4.2
+[debug] [2023-06-30T20:12:16.267Z] Platform:      win32
+[debug] [2023-06-30T20:12:16.267Z] Node Version:  v18.16.0
+[debug] [2023-06-30T20:12:16.268Z] Time:          Sat Jul 01 2023 01:42:16 GMT+0530 (India Standard Time)
+[debug] [2023-06-30T20:12:16.269Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-30T20:12:16.277Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-30T20:12:16.277Z] > authorizing via signed-in user (agyagp14@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Agya Gupta\Desktop\dclone
+
